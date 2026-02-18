@@ -3,4 +3,4 @@ print("main")
 
 # test
 
-print("lalala")
+print("lalala lala")
